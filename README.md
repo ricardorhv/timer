@@ -1,6 +1,6 @@
 # Timer
 A simple timer just to train my web skills 
-## Technologies
+## 🧪 Technologies
 - HTML
 - CSS
 - JavaScript
